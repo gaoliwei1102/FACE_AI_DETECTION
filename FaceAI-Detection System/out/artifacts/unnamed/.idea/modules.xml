@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AcademicAffairsOffice.iml" filepath="$PROJECT_DIR$/.idea/AcademicAffairsOffice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AcademicAffairsOffice-System/AcademicAffairsOffice-Mybatis/AcademicAffairsOffice-Mybatis.iml" filepath="$PROJECT_DIR$/AcademicAffairsOffice-System/AcademicAffairsOffice-Mybatis/AcademicAffairsOffice-Mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AcademicAffairsOffice-Mybatis2/AcademicAffairsOffice-Mybatis2.iml" filepath="$PROJECT_DIR$/AcademicAffairsOffice-Mybatis2/AcademicAffairsOffice-Mybatis2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AcademicAffairsOffice-System/AcademicAffairsOffice-System.iml" filepath="$PROJECT_DIR$/AcademicAffairsOffice-System/AcademicAffairsOffice-System.iml" />
+    </modules>
+  </component>
+</project>
